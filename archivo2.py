@@ -1,2 +1,2 @@
 b = 'aguante messi'
-c = "Que locura"
+c = "Buena putas"
